@@ -14,7 +14,7 @@ const projects = [
     description: "Designed personal portfolio with sections & animations. Mobile-friendly and fast UI with smooth scroll and modern dark theme.",
     tech: ["React", "Tailwind CSS", "Framer Motion"],
     github: "https://github.com/Sameergohil0007",
-    // live: "#",
+    live: "https://sameer-gohil-portfolio-web.vercel.app",
   },
 ];
 
