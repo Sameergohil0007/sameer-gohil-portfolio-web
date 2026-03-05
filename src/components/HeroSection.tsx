@@ -139,7 +139,7 @@ const HeroSection = () => {
           <a href="#projects" className="px-8 py-3 rounded-lg border border-primary/30 text-foreground font-semibold hover:bg-primary/10 transition-colors">
             View Projects
           </a>
-          <a href="../../public/Sameer Gohil CV-RESUME.pdf" download className="px-8 py-3 rounded-lg text-muted-foreground hover:text-foreground font-medium transition-colors">
+          <a href="/Sameer Gohil CV-RESUME.pdf" download className="px-8 py-3 rounded-lg text-muted-foreground hover:text-foreground font-medium transition-colors">
             Download Resume ↓
           </a>
         </motion.div>
